@@ -20,7 +20,7 @@
   7. Apo´s o link o programa pedirá o *input* de **1** ou **0** sendo assim você poderá sobrescrever o arquivo na pasta com o nome do seu grupo e digitar **1** para reanalisar o     código ou **0** para fechar.
 
 * Utilizado o código você poderá criar um *pull request* para que seu código seja agregado aos demais, para obtenção de melhores resultados
-* Craido o *pull request* mande uma mensagem, logo ele será incomporado ao main 
+* Criado o *pull request* mande uma mensagem, logo ele será incomporado ao main 
 
 
 
