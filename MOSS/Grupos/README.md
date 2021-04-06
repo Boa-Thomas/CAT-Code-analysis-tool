@@ -1,3 +1,6 @@
+# Requisito
+* Instalar o [Perl](https://www.activestate.com/products/perl/downloads/ "Perl Downloads") (Incluso no git)
+
 # Como usar:
 1. Adicione uma pasta com o nome do grupo na pasta **GRUPOS** 
 2. Dentro da pasta adicione o programa com o nome de `exec.asm`
@@ -5,7 +8,7 @@
 4. Neste arquivo adicione o nome de usado na pasta
 
 ## EXEMPLO: Nome do grupo `bola-e-emilio`
-
+### Como a linha entre os espaços `::=============` deve ficar
 `perl moss.perl -l c -d brasiliaalex/exec.asm thomashenrique/exec.asm bola-e-emilio/exec.asm`
 
 5. Após a edição é possivel executar o arquivo `run.bat`
