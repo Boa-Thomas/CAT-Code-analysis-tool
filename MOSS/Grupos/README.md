@@ -4,6 +4,10 @@
 3. Dentro da pasta **GRUPOS** edite o arquivo `run.bat` 
 4. Neste arquivo adicione o nome de usado na pasta
 
-# EXEMPLO: Nome do grupo `bola-e-emilio`
+## EXEMPLO: Nome do grupo `bola-e-emilio`
 
-`perl moss.perl -l c -d brasiliaalex/exec.asm thomashenrique/exec.asm **bola-e-emilio/exec.asm**`
+`perl moss.perl -l c -d brasiliaalex/exec.asm thomashenrique/exec.asm bola-e-emilio/exec.asm`
+
+5. Após a edição é possivel executar o arquivo `run.bat`
+6. Executado o programa lhe dara um link no final que poderá ser acessado para ser verificar similaridades no programa
+7. Apo´s o link o programa pedirá o *input* de **1** ou **0** sendo assim você poderá sobrescrever o arquivo na pasta com o nome do seu grupo e digitar **1** para reanalisar o código ou **0** para fechar.
