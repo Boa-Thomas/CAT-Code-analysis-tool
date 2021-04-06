@@ -1,5 +1,5 @@
 # Requisito
-.. Instalar o Perl (Incluso no git)
+* Instalar o Perl (Incluso no git)
 
 # Como usar:
 1. Adicione uma pasta com o nome do grupo na pasta **GRUPOS** 
