@@ -2,9 +2,9 @@
 * Instalar o [Perl](https://www.activestate.com/products/perl/downloads/ "Perl Downloads") (Incluso no git)
 
 # Como adicionar mais códigos?
-1. Faça um *branch* do *main* assim você poderá ter uma versão sua do programa
-2. Utilize unica e exclusivamente o seu *branch*
-3. **Como usar:**
+* Faça um *branch* do *main* assim você poderá ter uma versão sua do programa
+* Utilize unica e exclusivamente o seu *branch*
+* **Como usar:**
   1. Clone a *branch* **main** para um diretório do seu computador
   2. Adicione uma pasta com o nome do grupo na pasta **MOSS** 
   3. Dentro da pasta adicione o programa com o nome de `exec.asm`
@@ -19,8 +19,8 @@
   6. Executado o programa lhe dara um link no final que poderá ser acessado para ser verificar similaridades no programa
   7. Apo´s o link o programa pedirá o *input* de **1** ou **0** sendo assim você poderá sobrescrever o arquivo na pasta com o nome do seu grupo e digitar **1** para reanalisar o     código ou **0** para fechar.
 
-4. Utilizado o código você poderá criar um *pull request* para que seu código seja agregado aos demais, para obtenção de melhores resultados
-5. Craido o *pull request* mande uma mensagem, logo ele será incomporado ao main 
+* Utilizado o código você poderá criar um *pull request* para que seu código seja agregado aos demais, para obtenção de melhores resultados
+* Craido o *pull request* mande uma mensagem, logo ele será incomporado ao main 
 
 
 
