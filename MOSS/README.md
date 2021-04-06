@@ -12,7 +12,7 @@
   5. Neste arquivo adicione o nome de usado na pasta
 
   ### EXEMPLO: Nome do grupo `bola-e-emilio`
-  #### Como a linha entre os espaços `::=============` deve ficar
+  #### Como a linha entre os espaços `::=============` deve ficar:
   `perl moss.perl -l c -d brasiliaalex/exec.asm thomashenrique/exec.asm bola-e-emilio/exec.asm`
 
   5. Após a edição é possivel executar o arquivo `run.bat`
