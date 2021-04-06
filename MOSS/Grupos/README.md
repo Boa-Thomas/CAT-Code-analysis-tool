@@ -1,3 +1,6 @@
+# Requisito
+. Instalar o Perl (Incluso no git)
+
 # Como usar:
 1. Adicione uma pasta com o nome do grupo na pasta **GRUPOS** 
 2. Dentro da pasta adicione o programa com o nome de `exec.asm`
