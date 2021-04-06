@@ -6,9 +6,9 @@
 * Utilize unica e exclusivamente o seu *branch*
 * **Como usar:**
   1. Clone a *branch* **main** para um diretório do seu computador
-  2. Adicione uma pasta com o nome do grupo na pasta **MOSS** 
+  2. Adicione uma pasta com o nome do grupo
   3. Dentro da pasta adicione o programa com o nome de `exec.asm`
-  4. Dentro da pasta **MOSS** edite o arquivo `run.bat` 
+  4. Edite o arquivo `run.bat` 
   5. Neste arquivo adicione o nome de usado na pasta
 
   ### EXEMPLO: Nome do grupo `bola-e-emilio`
