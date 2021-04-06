@@ -2,9 +2,9 @@
 * Instalar o [Perl](https://www.activestate.com/products/perl/downloads/ "Perl Downloads") (Incluso no git)
 
 # Como usar:
-1. Adicione uma pasta com o nome do grupo na pasta **GRUPOS** 
+1. Adicione uma pasta com o nome do grupo na pasta **MOSS** 
 2. Dentro da pasta adicione o programa com o nome de `exec.asm`
-3. Dentro da pasta **GRUPOS** edite o arquivo `run.bat` 
+3. Dentro da pasta **MOSS** edite o arquivo `run.bat` 
 4. Neste arquivo adicione o nome de usado na pasta
 
 ## EXEMPLO: Nome do grupo `bola-e-emilio`
