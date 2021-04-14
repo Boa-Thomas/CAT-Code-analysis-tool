@@ -1,7 +1,7 @@
 @echo
 :start
 ::============
-perl moss.perl -l c -d brasiliaalex/exec.asm thomashenrique/exec.asm
+perl moss.perl -l c -d brasiliaalex/exec.asm thomashenrique/exec.asm vinijorge/exec.asm
 ::=============
 SET /p environment="Rodar novamente? (1) Fechar? (0)"
 IF /i "%environment%" == "1" GOTO start

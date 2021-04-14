@@ -2,7 +2,7 @@
 
 .data
 ARQ: .asciiz "C:/Users/conta/Desktop/mario.ppm"
-CAB: .space 2
+BT: .space 2
 .align 2
 FLTTYP: .word
 .text
@@ -98,8 +98,7 @@ IMG_print:
 	addi $s0, $s0, 4 			#advances to the next pixel of the image
 	addi $t2, $t2, 1			#adds one to the pixel count
 	blt $t2, $t3, BGR_to_RGB		#img conversion
-	li $t3, 0 				#zero counters
-	li $t2, 0
+	j zero_out
 	
 File_header_print:
 
@@ -115,6 +114,12 @@ File_step_counter_addup:
 		
 	ble $t3, $t7, File_header_print 	#loop the process
 	j File_read_end
+	
+zero_out:
+
+	li $t3, 0 				#zero counters
+	li $t2, 0
+	j File_header_print
 
 Bitwise:
 	srl $t4, $t1, 16 			#shift to the right 16	
