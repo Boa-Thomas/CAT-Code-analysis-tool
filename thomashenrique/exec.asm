@@ -2,7 +2,7 @@
 
 .data
 ARQ: .asciiz "C:/Users/conta/Desktop/mario.ppm"
-BT: .space 2
+CAB: .space 2
 .align 2
 FLTTYP: .word
 .text
